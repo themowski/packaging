@@ -1,0 +1,1 @@
+mylib @ file:///D:/dev/python/packaging/mylib
