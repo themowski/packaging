@@ -1,1 +1,1 @@
-mylib @ file:///D:/dev/python/packaging/mylib
+-e git+ssh://git@github.com/themowski/packaging.git@1f83dd86c0aeaec8055988cb5a3d471dd2fd5dd8#egg=mylib&subdirectory=mylib
